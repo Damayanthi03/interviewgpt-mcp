@@ -1,5 +1,7 @@
 # InterviewGPT
 
+![InterviewGPT](assets/landingpg.png)
+
 An AI-powered interview preparation platform built using the Model Context Protocol (MCP) to help users prepare for technical and HR interviews.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
