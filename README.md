@@ -14,8 +14,8 @@ An AI-powered interview preparation platform built using the Model Context Proto
 
 - Resume Analysis
 - HR Interview Practice
-- Coding Interview
-- Aptitude Assessment
+- Coding Practice
+- Aptitude Test
 - Communication Skills
 - Job Recommendations
 - User Authentication
